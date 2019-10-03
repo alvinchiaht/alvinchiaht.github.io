@@ -28,7 +28,7 @@ twitter_username:
 github_username:  alvinchiaht
 
 # Build settings
-theme: minima
+remote_theme: mmistakes/so-simple-theme
 plugins:
   - jekyll-feed
 
