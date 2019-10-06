@@ -21,7 +21,7 @@
 title: Alvin Chia's Portfolio
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Leveraging on data to derive insights and prescribe recommendations to stakeholders to make business decisions for strategic growth.
+Leveraging on data to derive insights and prescribe recommendations to stakeholders to make business decisions for strategic growth.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
