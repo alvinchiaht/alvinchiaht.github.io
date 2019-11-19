@@ -7,4 +7,6 @@ categories: others
 
 Welcome to my GitHub Page.
 
-This blog captures the projects and work that I perform in the area of data science and business analytics.
+Hi Everyone, I am Alvin Chia, a student pursuing a Master's degree in Enterprise Business Analytics at NUS.
+
+This blog documents the projects that I worked on in the areas of data science and business analytics.
