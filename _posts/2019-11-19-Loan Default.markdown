@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Predicting Loan Default"
-date:   2019-11-09 20:31:25 +0800
+date:   2019-11-19 20:31:25 +0800
 categories: project
 ---
 
