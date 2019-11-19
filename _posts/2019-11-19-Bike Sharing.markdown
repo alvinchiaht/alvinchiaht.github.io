@@ -7,4 +7,4 @@ categories: project
 
 University Project (Jul 19): Exploratory data analysis on bike sharing dataset 
 
-[Check it out here!]https://github.com/alvinchiaht/project/blob/master/Bike_Sharing.html
+[Check it out here!](https://github.com/alvinchiaht/project/blob/master/Bike_Sharing.html)
