@@ -5,7 +5,7 @@ date:   2019-11-19 20:31:25 +0800
 categories: project
 ---
 
-University Project (Sep 19): Developed a model to predict likelihood of default on loan.
+Sep 19: Developed a model to predict likelihood of default on loan.
 
 Dataset contained 42,514 borrower's records and 20 variables which comprised borrower's demographics, credit status, behaviour and loan details
 

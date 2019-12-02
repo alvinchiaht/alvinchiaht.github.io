@@ -5,7 +5,7 @@ date:   2019-10-20 20:54:05 +0800
 categories: project
 ---
 
-University Project (Oct 19): Our team built a book recommender system using the goodreads book dataset.
+Oct 19: Our team built a book recommender system using the goodreads book dataset.
 
 Instructions: Select the book genre, author, title and rating (optional). 
 

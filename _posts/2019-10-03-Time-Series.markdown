@@ -5,7 +5,7 @@ date:   2019-10-03 12:43:33 +0800
 categories: project
 ---
 
-University Project (Sep 19): Developed a model to predict train ridership and formulated a strategy to optimise number of trains to be deployed at a given period.
+Sep 19: Developed a model to predict train ridership and formulated a strategy to optimise number of trains to be deployed at a given period.
 
 Dataset comprised total number of train riders per month between 2005 to 2018. The trend line for the dataset exhibited seasonality and non-stationarity.
 
