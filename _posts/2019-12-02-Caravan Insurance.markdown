@@ -5,7 +5,7 @@ date:   2019-12-02 15:18:37 +0800
 categories: project
 ---
 
-Nov 19: We developed a propensity model to cross-sell caravan insurance.
+We developed a propensity model to cross-sell caravan insurance.
 
 Our objective was to improve sales of caravan insurance by cross-selling caravan insurance to the client's existing customers through customer segmentation and targeting.
 
