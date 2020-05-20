@@ -2,12 +2,11 @@
 layout: post
 title:  "Book Recommender System"
 date:   2019-10-20 20:54:05 +0800
-categories: project
----
-
 image: 
   path: C:/Users/Alvin/Pictures/images/BookRec.png
   thumbnail: C:/Users/Alvin/Pictures/images/BookRec-400x167.png
+categories: project
+---
 
 Our team built a book recommender system using the goodreads book dataset.
 
