@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to Alvin Chia's Portfolio
+title: Welcome to my Portfolio
 email: https://alvinchiaht.github.io/
 description: >- # this means to ignore newlines until "baseurl:"
   Leverging on data to gain business insights 
@@ -26,6 +26,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  alvinchiaht
+read_time: true
+words_per_minute: 100
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
 
 # Build settings
 remote_theme: mmistakes/so-simple-theme
