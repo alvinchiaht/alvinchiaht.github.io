@@ -2,6 +2,9 @@
 layout: post
 title:  "Welcome!"
 date:   2019-10-03 10:33:43 +0800
+image: 
+  path: C:/Users/Alvin/Pictures/House.jpeg
+  thumbnail: C:/Users/Alvin/Pictures/House.jpeg
 categories: others
 ---
 
