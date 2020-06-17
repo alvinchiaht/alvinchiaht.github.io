@@ -7,6 +7,8 @@ categories: others
 
 Welcome to my GitHub Page!
 
-Hi Everyone, I am Alvin Chia.
+Hi Everyone, I am Alvin Chia. I graduated from the National University of Singapore (NUS) with a Master degree in Enterprise Business Analytics and a Bachelor degree in Chemical Engineering.  
 
-This blog documents the university projects that I worked on in the areas of data science and business analytics.
+I strive to develop a career in data science and business analytics where I can leverage on data to derive insights, apply modelling techniques to predict future trends, and prescribe recommendations to stakeholders to make business decisions for strategic growth.
+
+This blog documents my work in the areas of data science and business analytics.

@@ -5,7 +5,7 @@ date:   2019-10-03 12:43:33 +0800
 categories: project
 ---
 
-We developed a model to predict train ridership and formulated a strategy to optimise number of trains to be deployed at a given period.
+We developed a model to predict Amtrak train ridership and formulated a strategy to optimise number of trains to be deployed at a given period.
 
 The dataset comprised the total number of train riders per month between 2005 to 2018. The trend line for the dataset exhibited seasonality and non-stationarity.
 

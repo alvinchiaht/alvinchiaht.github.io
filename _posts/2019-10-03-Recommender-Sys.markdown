@@ -5,7 +5,7 @@ date:   2019-10-20 20:54:05 +0800
 categories: project
 ---
 
-Our team built a book recommender system using the goodreads book dataset.
+We built a book recommender system using the goodreads book dataset.
 
 Books recommendations will be provided based on (1) top rated books, (2) books with similar content or (3) books rated by readers with similar preference.  
 

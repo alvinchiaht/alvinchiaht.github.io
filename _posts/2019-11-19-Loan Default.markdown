@@ -7,7 +7,7 @@ categories: project
 
 We developed a model to predict likelihood of default on loan.
 
-Dataset contained 42,514 borrower's records and 20 variables which comprised borrower's demographics, credit status, behaviour and loan details
+The Lending Club dataset contained 42,514 borrower's records and 20 variables which comprised borrower's demographics, credit status, behaviour and loan details
 
 Modelling was performed using logistic regression, decision tree, random forest and neural network. Bagging and boosting were also applied to the baseline models to enhance model performance.   
 
